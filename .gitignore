@@ -80,8 +80,7 @@ dist/
 web-build/
 
 # Env / secrets
-.env
-.env.*
 !.env.example
 src/config/.env
 ios/.xcode.env.local
+config.bat
